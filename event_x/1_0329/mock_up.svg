@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="276.55576"
-     inkscape:cy="107.14958"
+     inkscape:cx="308.36673"
+     inkscape:cy="-438.69901"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
@@ -187,28 +187,6 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:san-serif;-inkscape-font-specification:san-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-161.16353"
-       y="65.544571"
-       id="text2479"><tspan
-         sodipodi:role="line"
-         id="tspan2477"
-         x="-161.16353"
-         y="65.544571"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777778px;font-family:san-serif;-inkscape-font-specification:san-serif;stroke-width:0.26458332">Text text.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-161.43079"
-       y="44.163017"
-       id="text2483"><tspan
-         sodipodi:role="line"
-         id="tspan2481"
-         x="-161.43079"
-         y="44.163017"
-         style="font-size:19.75555611px;stroke-width:0.26458332">TITLE</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="49.206985"
        y="162.37048"
@@ -333,12 +311,79 @@
        x="-91.406174"
        y="371.3009"
        ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="about">
     <rect
-       style="opacity:1;vector-effect:none;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.73953289;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;vector-effect:none;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.16990435;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect4211"
-       width="289.72012"
-       height="21.381561"
-       x="-89.268021"
-       y="299.13815" />
+       width="220.17253"
+       height="70.411011"
+       x="-13.672783"
+       y="340.80484" />
+    <rect
+       style="opacity:0.5;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65565467;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4260"
+       width="173.79048"
+       height="173.79048"
+       x="-336.17029"
+       y="309.74927"
+       transform="rotate(-36.756552)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.64576185;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-1-5-8-4-1"
+       width="112.51115"
+       height="29.866798"
+       x="1.4124969"
+       y="385.54602"
+       transform="matrix(0.99947746,-0.03232362,0.0537903,0.99855225,0,0)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.64605868;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-7-8-2-4-0"
+       width="112.44974"
+       height="29.893896"
+       x="57.538101"
+       y="376.92114"
+       transform="matrix(0.99865511,0.05184568,-0.08615202,0.996282,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.31760955px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07242525"
+       x="35.724052"
+       y="401.80435"
+       id="text6357-2-4-9-6-4-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-6-6-7-4-4"
+         x="35.724052"
+         y="401.80435"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90565777px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.07242525">What's &quot;EVENT X&quot;</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="all">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:san-serif;-inkscape-font-specification:san-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-162.03548"
+       y="459.9129"
+       id="text2479"><tspan
+         sodipodi:role="line"
+         id="tspan2477"
+         x="-162.03548"
+         y="459.9129"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:san-serif;-inkscape-font-specification:san-serif;stroke-width:0.26458332">Text text.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-162.30273"
+       y="438.53137"
+       id="text2483"><tspan
+         sodipodi:role="line"
+         id="tspan2481"
+         x="-162.30273"
+         y="438.53137"
+         style="font-size:19.75555611px;stroke-width:0.26458332">TITLE</tspan></text>
   </g>
 </svg>
