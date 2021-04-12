@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="720"
@@ -18,37 +17,7 @@
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="mock_up.svg">
   <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4205">
-      <stop
-         style="stop-color:#6b6b6b;stop-opacity:0"
-         offset="0"
-         id="stop4201" />
-      <stop
-         id="stop4217"
-         offset="0.30403531"
-         style="stop-color:#3f3f3f;stop-opacity:0.4627451;" />
-      <stop
-         id="stop4215"
-         offset="0.73426807"
-         style="stop-color:#202020;stop-opacity:0.81176471;" />
-      <stop
-         style="stop-color:#101010;stop-opacity:1"
-         offset="1"
-         id="stop4203" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4205"
-       id="linearGradient4207"
-       x1="70.759171"
-       y1="297.45593"
-       x2="70.759171"
-       y2="343.42627"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -284,13 +253,6 @@
          d="m 95.25,228.89793 v 21.3216"
          style="fill:none;stroke:#ffffff;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-    <rect
-       style="opacity:0.525;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect2582"
-       width="252.83698"
-       height="5.8799338"
-       x="-39.555889"
-       y="291.12006" />
     <g
        id="g2662">
       <circle
@@ -364,13 +326,6 @@
            sodipodi:role="line">EVENT X</tspan></text>
     </g>
     <rect
-       style="opacity:1;vector-effect:none;fill:url(#linearGradient4207);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect2733"
-       width="268.87311"
-       height="48.643055"
-       x="-68.420998"
-       y="296.99997" />
-    <rect
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect4209"
        width="291.85828"
@@ -384,6 +339,6 @@
        width="289.72012"
        height="21.381561"
        x="-89.268021"
-       y="345.64304" />
+       y="299.13815" />
   </g>
 </svg>
