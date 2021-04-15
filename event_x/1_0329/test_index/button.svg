@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="621.86462"
+   height="325.56891"
+   viewBox="0 0 164.53502 86.140109"
+   version="1.1"
+   id="svg3227"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="button.svg">
+  <defs
+     id="defs3221">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3082-8"
+       x="-0.042003248"
+       width="1.0840065"
+       y="-0.10497971"
+       height="1.2099594">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9001276"
+         id="feGaussianBlur3084-3" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="440.71705"
+     inkscape:cy="130.19494"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3224">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.12557475,-216.9474)">
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.69417286;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-1-5-8-4-1-4-1"
+       width="148.38292"
+       height="60.690029"
+       x="13.77568"
+       y="225.37918"
+       transform="matrix(0.99998537,-0.00540865,-0.00956425,0.99995426,0,0)" />
+    <rect
+       style="display:inline;opacity:0.5;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.76686382;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter3082-8)"
+       id="rect6361-11-53-7-8-2-4-0-6-1-0"
+       width="106.37421"
+       height="36.409958"
+       x="16.521215"
+       y="-452.38409"
+       transform="matrix(1.3912743,0.11146234,-0.09321866,1.6635584,-55.063909,974.52992)" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.69440889;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-7-8-2-4-0-6-86"
+       width="148.46988"
+       height="60.665112"
+       x="25.354506"
+       y="218.59256"
+       transform="matrix(0.99680614,0.07985941,-0.05594793,0.99843369,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11676359px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ece931;fill-opacity:1;stroke:none;stroke-width:0.0661488"
+       x="43.764256"
+       y="261.80704"
+       id="text6357-2-4-9-6-4-0-1-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-6-6-7-4-4-6-9"
+         x="43.764256"
+         y="261.80704"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.56599712px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ece931;fill-opacity:1;stroke-width:0.0661488"
+         dx="0">BUY</tspan><tspan
+         sodipodi:role="line"
+         x="43.764256"
+         y="275.01453"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.56599712px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ece931;fill-opacity:1;stroke-width:0.0661488"
+         id="tspan3805">TICKET</tspan></text>
+  </g>
+</svg>
