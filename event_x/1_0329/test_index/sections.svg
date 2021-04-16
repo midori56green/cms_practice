@@ -367,9 +367,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4288"
-     inkscape:cx="-70.018475"
-     inkscape:cy="2510.5792"
+     inkscape:zoom="0.2144"
+     inkscape:cx="268.64256"
+     inkscape:cy="1563.855"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -532,6 +532,15 @@
      inkscape:label="sections"
      transform="translate(0,1513.4167)"
      style="display:inline;opacity:1">
+    <rect
+       style="opacity:0.7;vector-effect:none;fill:#ec3072;fill-opacity:1;fill-rule:nonzero;stroke:#ec3172;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect12034"
+       width="406.20999"
+       height="270.51245"
+       x="-274.11993"
+       y="-40.006226"
+       ry="135.25623"
+       transform="rotate(-90)" />
     <rect
        style="display:inline;opacity:0.7;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.84206975;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect4260-3"
@@ -1229,12 +1238,6 @@
          y="-326.08768"
          style="font-size:7.05555534px;fill:#8e8e8e;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1671-2">the artists who will appear in EvetX have ...</tspan></text>
-    <circle
-       style="display:inline;opacity:0.7;vector-effect:none;fill:#ec3072;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.63811445;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-       id="path4874-6"
-       cx="95.25"
-       cy="2.9955454"
-       r="135.74706" />
     <g
        style="display:inline;opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter3063-3-3-3)"
        id="g2174-3-4-4-2"
@@ -1278,15 +1281,6 @@
          x="95.412949"
          y="-84.445129"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:13.90565777px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.07242527">Sponsors</tspan></text>
-    <rect
-       style="opacity:0.7;vector-effect:none;fill:#ec3072;fill-opacity:1;fill-rule:nonzero;stroke:#ec3172;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       id="rect12034"
-       width="406.20999"
-       height="270.51245"
-       x="-285.0368"
-       y="364.01456"
-       ry="135.25623"
-       transform="rotate(-90)" />
     <rect
        style="display:inline;opacity:0.7;vector-effect:none;fill:#ec3072;fill-opacity:1;fill-rule:nonzero;stroke:#ec3172;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect12034-5"
