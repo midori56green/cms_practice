@@ -292,19 +292,6 @@
          stdDeviation="1.9001276"
          id="feGaussianBlur3084-3-6-7" />
     </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter3082-8-2-8-1"
-       x="-0.042003248"
-       width="1.0840065"
-       y="-0.10497971"
-       height="1.2099594">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.9001276"
-         id="feGaussianBlur3084-3-6-7-2" />
-    </filter>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath1196-76-1">
@@ -359,6 +346,19 @@
        width="482"
        y="-59"
        id="SVGID_1_" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3082-8-2-8-3"
+       x="-0.042003248"
+       width="1.0840065"
+       y="-0.10497971"
+       height="1.2099594">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9001276"
+         id="feGaussianBlur3084-3-6-7-6" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -368,8 +368,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.4288"
-     inkscape:cx="436.18975"
-     inkscape:cy="2746.4248"
+     inkscape:cx="-70.018475"
+     inkscape:cy="2510.5792"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -1229,93 +1229,6 @@
          y="-326.08768"
          style="font-size:7.05555534px;fill:#8e8e8e;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1671-2">the artists who will appear in EvetX have ...</tspan></text>
-    <rect
-       style="display:inline;opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.87806821;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect6361-1-0-9-1-5-8-4-1-4-1-4-0-8"
-       width="158.72137"
-       height="46.952301"
-       x="-7.6570406"
-       y="-255.3723"
-       transform="matrix(0.99756248,0.06977895,-0.10756207,0.99419837,0,0)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.42850733px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20089085"
-       x="103.64272"
-       y="-214.19347"
-       id="text1659-9-9"
-       transform="rotate(5.1383588)"><tspan
-         sodipodi:role="line"
-         id="tspan1657-6-0"
-         x="103.64272"
-         y="-214.19347"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.20089085">READ MORE <tspan
-   style="fill:#ece931;fill-opacity:1"
-   id="tspan11893">&gt;&gt;</tspan></tspan></text>
-    <rect
-       style="display:inline;opacity:0.5;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.76686382;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter3082-8-2-8-1)"
-       id="rect6361-11-53-7-8-2-4-0-6-1-0-3-8-3"
-       width="106.37421"
-       height="36.409958"
-       x="16.521215"
-       y="-452.38409"
-       transform="matrix(1.5917399,-0.01379413,0.06249338,1.8438863,8.654805,559.08441)" />
-    <rect
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.0278821;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect6361-11-53-7-8-2-4-0-6-86-8-8-9"
-       width="169.3264"
-       height="67.174377"
-       x="19.143814"
-       y="-279.46515"
-       transform="matrix(0.99996245,-0.00866576,0.03387275,0.99942615,0,0)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.98770905px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ec3172;fill-opacity:1;stroke:none;stroke-width:0.43711591"
-       x="17.839911"
-       y="-260.48163"
-       id="text1655-2-8"><tspan
-         sodipodi:role="line"
-         x="17.839911"
-         y="-260.48163"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:13.05277824px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#ec3172;fill-opacity:1;stroke-width:0.43711591"
-         id="tspan11517-99-4">Artist information</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21277523px;line-height:1.25;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8e8e8e;fill-opacity:1;stroke:none;stroke-width:0.19414923"
-       x="132.73471"
-       y="-233.06146"
-       id="text1663-3-1"><tspan
-         sodipodi:role="line"
-         id="tspan1661-8-9"
-         x="132.73471"
-         y="-233.06146"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#8e8e8e;fill-opacity:1;stroke-width:0.19414923">9 March 2021</tspan></text>
-    <path
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ec3172;stroke-width:1.38388598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 17.122639,-242.78844 H 171.07213"
-       id="path1665-4-7"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8e8e8e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="18.202444"
-       y="-221.80927"
-       id="text1669-2-1"><tspan
-         sodipodi:role="line"
-         x="18.202444"
-         y="-221.80927"
-         style="font-size:7.05555534px;fill:#8e8e8e;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1671-2-5">The artists who will appear in EvetX have ...</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.98770905px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ec3172;fill-opacity:1;stroke:none;stroke-width:0.43711591"
-       x="17.839911"
-       y="-247.52399"
-       id="text1655-0-8-5"><tspan
-         sodipodi:role="line"
-         x="17.839911"
-         y="-247.52399"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:13.05277824px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#ec3172;fill-opacity:1;stroke-width:0.43711591"
-         id="tspan11517-9-7-9">has been released!</tspan></text>
     <circle
        style="display:inline;opacity:0.7;vector-effect:none;fill:#ec3072;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.63811445;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="path4874-6"
@@ -2473,6 +2386,82 @@
          y="-335.96017"
          style="font-size:7.05555534px;fill:#8e8e8e;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1671-2-6">Artist infomation has been released and</tspan></text>
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.87806821;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-1-5-8-4-1-4-1-4-0-6"
+       width="158.72137"
+       height="46.952301"
+       x="-8.9853725"
+       y="-267.69171"
+       transform="matrix(0.99756248,0.06977895,-0.10756207,0.99419837,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.42850733px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20089085"
+       x="102.53745"
+       y="-226.4845"
+       id="text1659-9-3"
+       transform="rotate(5.1383588)"><tspan
+         sodipodi:role="line"
+         id="tspan1657-6-5"
+         x="102.53745"
+         y="-226.4845"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.20089085">READ MORE <tspan
+   style="fill:#ece931;fill-opacity:1;stroke-width:0.20089085"
+   id="tspan11891-0">&gt;&gt;</tspan></tspan></text>
+    <rect
+       style="display:inline;opacity:0.5;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.76686382;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter3082-8-2-8-3)"
+       id="rect6361-11-53-7-8-2-4-0-6-1-0-3-8-2"
+       width="106.37421"
+       height="36.409958"
+       x="16.521215"
+       y="-452.38409"
+       transform="matrix(1.5917399,-0.01181647,0.06249338,1.5795296,8.654805,435.56583)" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.80271387;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-7-8-2-4-0-6-86-8-8-0"
+       width="169.32471"
+       height="57.555607"
+       x="20.858805"
+       y="-282.83243"
+       transform="matrix(0.99997245,-0.00742343,0.03953361,0.99921824,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.98770905px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ec3172;fill-opacity:1;stroke:none;stroke-width:0.43711591"
+       x="17.839911"
+       y="-263.56683"
+       id="text1655-2-0"><tspan
+         sodipodi:role="line"
+         x="17.839911"
+         y="-263.56683"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:13.05277824px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#ec3172;fill-opacity:1;stroke-width:0.43711591"
+         id="tspan11517-99-9">Artist information</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21277523px;line-height:1.25;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8e8e8e;fill-opacity:1;stroke:none;stroke-width:0.19414923"
+       x="132.73471"
+       y="-248.48723"
+       id="text1663-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan1661-8-5"
+         x="132.73471"
+         y="-248.48723"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#8e8e8e;fill-opacity:1;stroke-width:0.19414923">9 March 2021</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ec3172;stroke-width:1.38388598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 17.122639,-258.21423 H 171.07213"
+       id="path1665-4-1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8e8e8e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="18.202444"
+       y="-233.84142"
+       id="text1669-2-0"><tspan
+         sodipodi:role="line"
+         x="18.202444"
+         y="-233.84142"
+         style="font-size:7.05555534px;fill:#8e8e8e;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1671-2-8">the artists who will appear in EvetX have ...</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
