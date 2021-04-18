@@ -1,36 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Document</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<style>
-		body {
-			margin: 0;
-			padding: 0;
-		}
-		img {
-			width: 100%;
-			height: auto;
-		}
-		#back {
-			position: fixed;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: auto;
-			z-index: -1;
-		}
-		#btn {
-			position: fixed;
-			top: -11%;
-			right: -59%;
-		}
-	</style>
-	<img src="back.svg" alt="" id="back">
-	<img src="button.svg" alt="" id="btn">
-	<img src="sections.svg" alt="" id="sections">
+	<header class="header">
+		<a href="#" class="main-nav_btn"></a>
+		<nav class="main-nav">
+			<ul>
+				<li><a href="#">About EventX</a></li>
+			</ul>
+		</nav>
+		<a href="www.ticketmaster.com" target="_blank" rel="noopener" class="floating-btn"></a>
+	</header>
+	<main>
+		<section class="section">
+			<h2 class="section-title">About EventX</h2>
+			<p>Event x is a brand new music event that is to be held in different locations with different artists.</p>
+			<a href="www.ticketmaster.com" target="_blank" rel="noopener" class="main-btn">
+				<span class="btn_sub-text">Now on sale</span>
+				<strong class="btn_main-text">BUY TICKET</strong>
+			</a>
+		</section>
+		<section class="section">
+			<h2 class="section-title">Artists</h2>
+		</section>
+	</main>
 </body>
 </html>
