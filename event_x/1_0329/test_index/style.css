@@ -48,10 +48,34 @@ p {
 /** -----------------------------------------------
 	first-view-cnt
 ----------------------------------------------- **/
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+		transform:
+			translateY(15vh);
+	}
+	100% {
+		opacity: 1;
+		transform:
+		translateY(0);
+	}
+}
+@keyframes fadeInSub {
+	0% {
+		opacity: 0;
+		transform:
+			translateY(5vh);
+	}
+	100% {
+		opacity: 1;
+		transform:
+		translateY(0);
+	}
+}
+
 .first-view-cnt {
 	position: relative;
 	height: 100vh;
-	margin-bottom: 2rem;
 }
 
 /* -- floating-btn -- */
@@ -112,7 +136,7 @@ p {
 	display: block;
 	width: 150px;
 	margin: 1.5rem auto;
-	animation: slideRight 0.6s ease-out forwards 0.45s;
+	animation: fadeIn 0.6s ease-out forwards 0.45s;
 }
 .logo-back-wrap {
 	opacity: 0;
@@ -134,7 +158,7 @@ p {
 	box-shadow: var(--shadow-box);
 }
 .logo-back-wrap:nth-child(1) {
-	animation: slideRight 0.6s ease-out forwards;
+	animation: fadeIn 0.6s ease-out forwards;
 }
 .logo-back-wrap:nth-child(1) .logo-back {
 	background: var(--green);
@@ -144,7 +168,7 @@ p {
 	;
 }
 .logo-back-wrap:nth-child(2) {
-	animation: slideRight 0.6s ease-out forwards 0.15s;
+	animation: fadeIn 0.6s ease-out forwards 0.15s;
 }
 .logo-back-wrap:nth-child(2) .logo-back {
 	background: var(--red);
@@ -154,7 +178,7 @@ p {
 	;
 }
 .logo-back-wrap:nth-child(3) {
-	animation: slideRight 0.6s ease-out forwards 0.3s;
+	animation: fadeIn 0.6s ease-out forwards 0.3s;
 }
 .logo-back-wrap:nth-child(3) .logo-back{
 	background: var(--blue);
@@ -162,27 +186,17 @@ p {
 		rotate(3deg)
 	;
 }
-@keyframes slideRight {
-	0% {
-		opacity: 0;
-		transform:
-			translateY(15vh);
-	}
-	100% {
-		opacity: 1;
-		transform:
-		translateY(0);
-	}
-}
 
 /* -- first-view-infomation -- */
 .first-view-infomation {
+	opacity: 0;
 	position: absolute;
 	top: calc(45vh + 3rem);
 	right: 0;
 	left: 0;
 	padding: 0 1rem;
 	margin: 0 auto;
+	animation: fadeInSub 0.6s ease-out forwards 0.6s;
 	color: var(--white);
 	font-family: var(--font-title);
 	font-weight: bold;
@@ -191,28 +205,34 @@ p {
 }
 
 /* -- scroll-btn -- */
-.scroll-btn {
+#scroll-btn {
+	opacity: 0;
 	position: absolute;
-	bottom: 2rem;
+	bottom: 3rem;
 	right: 0;
 	left: 0;
 	max-width: 65px;
 	width: 15vw;
 	height: auto;
 	margin: 0 auto;
-	animation: floatingAnimation 1s ease-in-out infinite alternate;
+	animation:
+		fadeInSub 0.6s ease-out forwards 0.75s,
+		floatingAnimation-scrollBtn 1s ease-in-out infinite alternate 1.35s
+	;
 }
-.scroll-btn-img {
+#scroll-btn-img {
 	display: block;
 	width: 100%;
 	height: auto;
 }
-@keyframes floatingAnimation {
+@keyframes floatingAnimation-scrollBtn {
 	0% {
-		transform: translateY(-0.5rem);
+		opacity: 1;
+		transform: translateY(0);
 	}
 	100% {
-		transform: translateY(0.5rem);
+		opacity: 1;
+		transform: translateY(1rem);
 	}
 }
 /*.scroll-btn {
@@ -251,8 +271,12 @@ p {
 }*/
 
 /** -----------------------------------------------
-	section
+	main
 ----------------------------------------------- **/
+#main {
+	padding-top: 2.5rem;
+}
+
 /* -- section -- */
 .section {
 	position: relative;
@@ -368,6 +392,23 @@ p {
 	;
 	box-shadow: var(--shadow-box);
 }
+.main-btn-arrow {
+	position: absolute;
+	top: -1.5rem;
+	right: 0;
+	width: 3rem;
+	height: auto;
+	animation: floatingAnimation-mainBtnArrow 0.8s ease-in-out infinite alternate;
+}
+@keyframes floatingAnimation-mainBtnArrow {
+	0% {
+		transform: translateY(0);
+	}
+	100% {
+		transform: translateY(0.5rem);
+	}
+
+}
 .main-btn .btn_sub-text {
 	display: block;
 	color: var(--white);
@@ -383,6 +424,7 @@ p {
 /* -- news-cnt -- */
 .news-cnt_li {
 	position: relative;
+	margin-bottom: 2rem;
 }
 .news-box {
 	padding: 1rem;
@@ -424,17 +466,16 @@ p {
 }
 .news-cnt_btn {
 	position: absolute;
-	bottom: -2rem;
+	bottom: -0.5rem;
+	right: 0;
 	left: 0;
-	width: 100%;
+	width: calc(100% - 1rem);
 	height: 5rem;
 	padding: 0.5rem;
+	margin: 0 auto;
 	background: var(--green);
 	transform-origin: bottom left;
-	transform:
-		rotate(3deg)
-		translateY(-5rem)
-	;
+	transform: rotate(3deg);
 	z-index: -2;
 	color: var(--white);
 	font-family: var(--font-title);
@@ -450,7 +491,7 @@ p {
 /** -----------------------------------------------
 	footer
 ----------------------------------------------- **/
-.footer {
+#footer {
 	padding: 2rem 0 1rem;
 	background: rgba(0,0,0,0.6);
 }
