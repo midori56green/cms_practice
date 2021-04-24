@@ -3,54 +3,71 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
+	<title>EventX</title>
 	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="style-l.css" media="screen and (min-width: 700px)">
 </head>
 <body>
-	<header id="header">
-<!-- 		<a href="#" class="main-nav_btn"></a>
-		<nav class="main-nav">
-			<ul>
-				<li><a href="#">About EventX</a></li>
-			</ul>
-		</nav>
- -->		<a href="www.ticketmaster.com" target="_blank" rel="noopener" class="floating-btn">BUY&ensp;TICKET</a>
-	</header>
-	<div class="first-view-cnt">
-		<div class="first-cnt">
-			<h1 class="logo">
-				<span class="logo-back-wrap">
-					<span class="logo-back"></span>
-				</span>
-				<span class="logo-back-wrap">
-					<span class="logo-back"></span>
-				</span>
-				<span class="logo-back-wrap">
-					<span class="logo-back"></span>
-				</span>
-				<img class="logo-text" src="logo_text.svg" alt="EventX">
-			</h1>
-			<strong class="first-view-infomation">19&ensp;October&ensp;2021</strong>
-		</div>
+	<header id="header" class="first-view-cnt">
+ 		<a href="www.ticketmaster.com" target="_blank" rel="noopener" class="floating-btn">BUY&ensp;TICKET</a>
+		<h1 class="logo">
+			<span class="logo-back-wrap">
+				<span class="logo-back"></span>
+			</span>
+			<span class="logo-back-wrap">
+				<span class="logo-back"></span>
+			</span>
+			<span class="logo-back-wrap">
+				<span class="logo-back"></span>
+			</span>
+			<img class="logo-text" src="logo_text.svg" alt="EventX">
+		</h1>
+		<strong class="first-view-infomation">19&ensp;October&ensp;2021</strong>
 		<a href="#" id="scroll-btn">
-			<img src="../img/material/arrow-bottom.png" id="scroll-btn-img" alt="scroll bottom">
+			<img src="../img/material/arrow-bottom_white.png" id="scroll-btn-img" alt="scroll bottom">
 		</a>
-	</div>
+	</header>
 	<main id="main">
 		<section class="section">
 			<h2 class="section-title">About EventX</h2>
-			<p>Event x is a brand new music event that is to be held in different locations with different artists.</p>
+			<p>Event x is a brand new music event that is to be held in different locations with different artists.<br>Let's enjoy a new style music festival together!</p>
 			<a href="www.ticketmaster.com" target="_blank" rel="noopener" class="main-btn">
-				<img src="../img/material/arrow-bottom-left.png" class="main-btn-arrow" alt="">
+				<img src="../img/material/arrow-bottom-left_yellow.png" class="main-btn-arrow" alt="">
 				<span class="btn_sub-text">Now on sale</span>
 				<strong class="btn_main-text">BUY TICKET</strong>
 			</a>
 		</section>
 		<section class="section">
 			<h2 class="section-title">Artists</h2>
-			<ul>
-				<li><audio src="../music/1.mp3" autoplay controls></audio></li>
-			</ul>
+			<div class="artist-cnt">
+				<ul id="artist-cnt_list-box">
+					<li class="artist-cnt_list">
+						<a href="#" class="artist-cnt_btn">
+							<img class="artist-cnt_img" src="../img/artists/Afrojack.png" alt="">
+						</a>
+					</li>
+					<li class="artist-cnt_list">
+						<a href="#" class="artist-cnt_btn">
+							<img class="artist-cnt_img" src="../img/artists/Armin-van-buuren.jpg" alt="">
+						</a>
+					</li>
+					<li class="artist-cnt_list">
+						<a href="#" class="artist-cnt_btn">
+							<img class="artist-cnt_img" src="../img/artists/Hardwell.jpg" alt="">
+						</a>
+					</li>
+					<li class="artist-cnt_list">
+						<a href="#" class="artist-cnt_btn">
+							<img class="artist-cnt_img" src="../img/artists/Nicky Romero.jpg" alt="">
+						</a>
+					</li>
+					<li class="artist-cnt_list">
+						<a href="#" class="artist-cnt_btn">
+							<img class="artist-cnt_img" src="../img/artists/Tiesto.jpg" alt="">
+						</a>
+					</li>
+				</ul>			</div>
+
 		</section>
 		<section class="section">
 			<h2 class="section-title">News</h2>
@@ -61,9 +78,11 @@
 							<span class="news-cnt_title">Ticket infomation</span>
 							<span class="news-cnt_date">19 April 2021</span>
 						</dt>
-						<dd class="news-cnt_text">EventX's ticket sales started!</dd>
+						<dd class="news-cnt_text">EventX's ticket sales started! Now on sale!</dd>
 					</dl>
-					<a href="#" class="news-cnt_btn">READ&ensp;MORE</a>
+					<a href="#" class="news-cnt_btn">
+						<span class="news-cnt_btn-text">READ&ensp;MORE</span>
+					</a>
 				</li>
 				<li class="news-cnt_li">
 					<dl class="news-box">
@@ -73,7 +92,9 @@
 						</dt>
 						<dd class="news-cnt_text">EventX's ticket sales started!</dd>
 					</dl>
-					<a href="#" class="news-cnt_btn">READ&ensp;MORE</a>
+					<a href="#" class="news-cnt_btn">
+						<span class="news-cnt_btn-text">READ&ensp;MORE</span>
+					</a>
 				</li>
 				<li class="news-cnt_li">
 					<dl class="news-box">
@@ -83,15 +104,82 @@
 						</dt>
 						<dd class="news-cnt_text">EventX's ticket sales started!</dd>
 					</dl>
-					<a href="#" class="news-cnt_btn">READ&ensp;MORE</a>
+					<a href="#" class="news-cnt_btn">
+						<span class="news-cnt_btn-text">READ&ensp;MORE</span>
+					</a>
+				</li>
+				<li>
+					<ul id="past-news-box">
+						<li class="news-cnt_li">
+							<dl class="news-box">
+								<dt class="news-cnt_title-box">
+									<span class="news-cnt_title">Ticket infomation</span>
+									<span class="news-cnt_date">19 April 2021</span>
+								</dt>
+								<dd class="news-cnt_text">EventX's ticket sales started!</dd>
+							</dl>
+							<a href="#" class="news-cnt_btn">
+								<span class="news-cnt_btn-text">READ&ensp;MORE</span>
+							</a>
+						</li>
+						<li class="news-cnt_li">
+							<dl class="news-box">
+								<dt class="news-cnt_title-box">
+									<span class="news-cnt_title">Ticket infomation</span>
+									<span class="news-cnt_date">19 April 2021</span>
+								</dt>
+								<dd class="news-cnt_text">EventX's ticket sales started!</dd>
+							</dl>
+							<a href="#" class="news-cnt_btn">
+								<span class="news-cnt_btn-text">READ&ensp;MORE</span>
+							</a>
+						</li>
+					</ul>
+					<a href="#" id="news-cnt_toggle-btn">
+						<span class="close-text">Show&ensp;more</span>
+						<span class="show-text">Close</span>
+						<img class="news-cnt_toggle-btn_icon" src="../img/material/arrow-bottom_yellow.png" alt="">
+					</a>
 				</li>
 			</ul>
 		</section>
 		<section class="section">
-			<h2 class="section-title">SNS</h2>
+			<h2 class="section-title">Save the date</h2>
+			<dl class="infomation-cnt">
+				<div class="infomation-cnt_box">
+					<dt class="infomation-cnt_title"><img src="../img/material/time-icon_white.png" alt="date&time"></dt>
+					<dd class="infomation-cnt_text">19 October 2021 18:00~</dd>
+				</div>
+				<div class="infomation-cnt_box">
+					<dt class="infomation-cnt_title"><img src="../img/material/pin-icon_white.png" alt="place"></dt>
+					<dd class="infomation-cnt_text">Aichi Sky Expo</dd>
+				</div>
+			</dl>
+			<div id="countdown-box">
+				<span id="day" class="countdown-box_num">0</span>
+				<span class="countdown-box_unit">D</span>
+				<span id="hour" class="countdown-box_num">0</span>
+				<span class="countdown-box_unit">H</span>
+				<span id="minutes" class="countdown-box_num">0</span>
+				<span class="countdown-box_unit">M</span>
+				<span id="second" class="countdown-box_num">0</span>
+				<span class="countdown-box_unit">S</span>
+			</div>
 		</section>
 	</main>
 	<footer id="footer">
+		<section class="footer-section">
+			<h3 class="footer-section-title">SNS</h3>
+			<ul class="sns-cnt">
+				<li class="sns-cnt_li"><img src="../img/material/facebook_white.png" alt="facebook"></li>
+				<li class="sns-cnt_li"><img src="../img/material/twitter_white.png" alt="twitter"></li>
+				<li class="sns-cnt_li"><img src="../img/material/instagram_white.png" alt="instagram"></li>
+			</ul>
+			<a href="#" class="footer-section-btn">
+				<img class="footer-section-btn_icon" src="../img/material/e-mail_white.png" alt="">
+				<span class="footer-section-btn_text">Subscribe to newsletter</span>
+			</a>
+		</section>
 		<section class="footer-section">
 			<h3 class="footer-section-title">SPONSORS</h3>
 			<ul class="sponsors-cnt">

@@ -1,0 +1,82 @@
+/** -----------------------------------------------
+	first-view
+----------------------------------------------- **/
+.logo {
+	max-width: 500px;
+}
+.logo-text {
+	width: 250px;
+}
+.first-view-infomation {
+	top: calc(45vh + 4rem);
+}
+.floating-btn {
+	width: 13rem;
+	padding: 1.5rem 1rem;
+	font-size: 1.5rem;
+}
+
+/** -----------------------------------------------
+	section
+----------------------------------------------- **/
+.section {
+	margin-bottom: 5rem;
+}
+.section:nth-child(odd)::before {
+    background: var(--blue);
+    transform:
+    	translate(-50vw, 0.5rem)
+    	rotate(-3deg);
+}
+.section:nth-child(even)::before {
+    background: var(--red);
+    transform:
+    	translate(-50vw, 0.5rem)
+    	rotate(3deg);
+}
+
+/** -----------------------------------------------
+	countdown-box
+----------------------------------------------- **/
+#countdown-box {
+	margin-bottom: 2rem;
+}
+.countdown-box_num {
+	font-size: 3rem;
+}
+.countdown-box_unit:not(:last-child) {
+	margin-right: 0.5rem;
+}
+
+/** -----------------------------------------------
+	footer
+----------------------------------------------- **/
+.footer-section:not(:first-child) {
+	margin-top: 4rem;
+}
+.footer-section-btn {
+	padding: 1rem;
+}
+.footer-section-btn_icon {
+	width: 4rem;
+	margin: 0;
+}
+.footer-section-btn_text {
+	font-size: 1.2rem;
+}
+.sns-cnt {
+	padding: 0;
+	justify-content: space-around;
+}
+.sns-cnt_li {
+	width: 10%;
+}
+.sns-cnt_li img {
+	margin: 0 auto;
+}
+.sponsors-cnt {
+	padding: 0;
+}
+.sponsors-cnt_li {
+	width: 20%;
+}
