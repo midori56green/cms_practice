@@ -7,6 +7,8 @@
 </head>
 <body>
 	<?php wp_body_open(); ?>
+	<h1><?php wp_title(); ?></h1>
+	<?php the_content(); ?>
 	<?php wp_footer(); ?>
 </body>
 <script src="script.js"></script>

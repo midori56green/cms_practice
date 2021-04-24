@@ -60,6 +60,29 @@ toggleBtn.addEventListener('click', (e) => {
 	newsFlg = !newsFlg
 });
 
+// toggle morenews-cnt
+const fadeCnt = document.getElementById('fade-cnt');
+const moreNewsBtn = document.getElementsByClassName('news-cnt_btn');
+for(let i = 0; i < moreNewsBtn.length; i++) {
+	const btn = moreNewsBtn[i];
+	btn.addEventListener('click', (e) => {
+		e.preventDefault();
+
+		fadeCnt.classList.add('show');
+	});
+}
+
+const closeBtn = document.getElementById('morenews-cnt_close-btn');
+const overlay = document.getElementById('overlay');
+closeBtn.addEventListener('click', (e) => {
+	e.preventDefault();
+	fadeCnt.classList.remove('show');
+});
+overlay.addEventListener('click', () => {
+	fadeCnt.classList.remove('show');
+});
+
+
 // count down timer
 const endDate = new Date('2021/10/19 18:00:00');
 const endTime = endDate.getTime();
