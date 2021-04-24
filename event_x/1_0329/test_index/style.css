@@ -613,7 +613,7 @@ p {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	max-width: 700%;
+	max-width: 700px;
 	width: calc(100% - 4rem);
 	height: 80vh;
 	padding: 1rem;
@@ -630,14 +630,14 @@ p {
 	top: 0;
 	height: 100%;
 	background: var(--white);
-	transform: skewY(4deg);
+	transform: skewY(2deg);
 	z-index: -1;
 }
 #morenews-cnt::after {
 	bottom: -3vh;
 	height: 50%;
 	background: var(--green);
-	transform: skewY(-3deg);
+	transform: skewY(-1deg);
 	z-index: -2;
 }
 .morenews-cnt_inner {
@@ -678,10 +678,12 @@ p {
 #morenews-cnt_close-btn:before,
 #morenews-cnt_close-btn:after {
 	position: absolute;
-	top: 3vh;
-	right: 3vw;
+	top: 2vw;
+	right: 0.5rem;
 	content: "";
+	max-width: 50px;
 	width: 8vw;
+	min-width: 40px;
 	height: 4px;
 	background: var(--yellow);
 }
