@@ -1,0 +1,13 @@
+◯提供されるファイル
+●WSC2017_TP17_CMS_MEDIA_PRE.zip
+
+01 [プラグイン] Advanced-custom-fields（投稿コンテンツプラグイン）
+02 [プラグイン] Contact-form（お問い合わせフォーム）
+03 [プラグイン] Jetpack（ソーシャルメディアプラグイン）
+04 [プラグイン] List-slider（JQueryスライダ）
+05 [プラグイン] Wordfence（セキュリティプラグイン）
+06 [素材] Artists（アーティストの写真とオーディオファイル）
+07 [テーマ] Blankslate（空白のテーマ）
+08 [WordPress本体] Wordpress-4.7.5（WordPressのインストールファイル）
+09 [プラグイン] Wordpress-seo（WordPress SEOプラグイン）
+10 [素材] Sponsors（スポンサーロゴ写真）

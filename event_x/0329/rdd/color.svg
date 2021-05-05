@@ -1,0 +1,1764 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1349"
+   height="657"
+   viewBox="0 0 356.92292 173.83125"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="カラーパレット.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5239"
+       x="-0.1812"
+       width="1.3624001"
+       y="-0.1812"
+       height="1.3624001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.6183139"
+         id="feGaussianBlur5241" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5391"
+       x="-0.1884"
+       width="1.3767999"
+       y="-0.1884"
+       height="1.3767999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.9355659"
+         id="feGaussianBlur5393" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5620"
+       x="-0.1776"
+       width="1.3552001"
+       y="-0.1776"
+       height="1.3552001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.3089146"
+         id="feGaussianBlur5622" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5757"
+       x="-0.18412898"
+       width="1.368258"
+       y="-0.17836274"
+       height="1.3567255">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.326959"
+         id="feGaussianBlur5759" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6197"
+       x="-0.29519999"
+       width="1.5904"
+       y="-0.29519999"
+       height="1.5904">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.1140174"
+         id="feGaussianBlur6199" />
+    </filter>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6262"
+       gradientUnits="userSpaceOnUse"
+       x="-509.30893"
+       y="-114.03511"
+       gradientTransform="matrix(0.11003918,0,0,0.11003918,-5069.4917,2542.2248)">
+      <meshrow
+         id="meshrow6264">
+        <meshpatch
+           id="meshpatch6266">
+          <stop
+             path="c 34.5405,-34.5405  90.5417,-34.5405  125.082,0"
+             style="stop-color:#0c1572;stop-opacity:1"
+             id="stop6268" />
+          <stop
+             path="c 34.5405,34.5405  34.5405,90.5417  0,125.082"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop6270" />
+          <stop
+             path="c -34.5405,34.5405  -90.5417,34.5405  -125.082,1.42109e-14"
+             style="stop-color:#851b00;stop-opacity:1"
+             id="stop6272" />
+          <stop
+             path="c -34.5405,-34.5405  -34.5405,-90.5417  -5.68434e-14,-125.082"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop6274" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6278"
+       gradientUnits="userSpaceOnUse"
+       x="-616.85712"
+       y="454.2381"
+       gradientTransform="matrix(0.06069105,0,0,0.06069105,-5063.5189,2604.4657)">
+      <meshrow
+         id="meshrow6280">
+        <meshpatch
+           id="meshpatch6282">
+          <stop
+             path="c 129.016,0  258.032,0  387.048,0"
+             style="stop-color:#070e54;stop-opacity:1"
+             id="stop6284" />
+          <stop
+             path="c 0,101.802  0,203.603  0,305.405"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop6286" />
+          <stop
+             path="c -129.016,0  -258.032,0  -387.048,0"
+             style="stop-color:#671807;stop-opacity:1"
+             id="stop6288" />
+          <stop
+             path="c 0,-101.802  0,-203.603  0,-305.405"
+             style="stop-color:#050100;stop-opacity:1"
+             id="stop6290" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6341"
+       gradientUnits="userSpaceOnUse"
+       x="-616.85712"
+       y="454.2381"
+       gradientTransform="matrix(0.06069105,0,0,0.06069105,-5096.7393,2602.3894)">
+      <meshrow
+         id="meshrow6353">
+        <meshpatch
+           id="meshpatch6351">
+          <stop
+             id="stop6343"
+             style="stop-color:#072f54;stop-opacity:1"
+             path="c 129.016,0  258.032,0  387.048,0" />
+          <stop
+             id="stop6345"
+             style="stop-color:#011215;stop-opacity:1"
+             path="c 0,101.802  0,203.603  0,305.405" />
+          <stop
+             id="stop6347"
+             style="stop-color:#672b07;stop-opacity:1"
+             path="c -129.016,0  -258.032,0  -387.048,0" />
+          <stop
+             id="stop6349"
+             style="stop-color:#2e1303;stop-opacity:1"
+             path="c 0,-101.802  0,-203.603  0,-305.405" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64"
+     inkscape:cx="710.9709"
+     inkscape:cy="314.99081"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(5401.6631,-2718.922)"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#020100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.73101878;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6359-7"
+       width="356.92291"
+       height="173.83125"
+       x="-5401.6631"
+       y="2718.9219" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.00450516;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1809"
+       width="850.41095"
+       height="346.28809"
+       x="-5542.4795"
+       y="2347.6606" />
+  </g>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(5401.6631,-2718.922)">
+    <circle
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#7efffa;stroke-width:0.33547884;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path4520"
+       cx="-5096.3247"
+       cy="2547.884"
+       r="3.0661726" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#7efffa;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter5391)"
+       id="path4520-5"
+       cx="43.089287"
+       cy="59.630959"
+       r="31.436726"
+       transform="matrix(0.09753473,0,0,0.09753473,-5100.5274,2542.0681)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff7ef2;stroke-width:0.33547884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4642"
+       width="4.4352913"
+       height="4.4352913"
+       x="-5691.125"
+       y="-38.911701"
+       transform="rotate(-27.02127)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff7ef2;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter5239)"
+       id="rect4642-8"
+       width="45.473965"
+       height="45.473965"
+       x="77.25148"
+       y="141.44241"
+       transform="matrix(0.08688765,-0.04431211,0.04431211,0.08688765,-5100.5274,2542.0681)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#91ff7e;stroke-width:0.33547884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path5395"
+       sodipodi:sides="3"
+       sodipodi:cx="-5092.7114"
+       sodipodi:cy="2555.0356"
+       sodipodi:r1="2.6068058"
+       sodipodi:r2="1.3034029"
+       sodipodi:arg1="-2.8797933"
+       sodipodi:arg2="-1.8325957"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -5095.2294,2554.361 2.1806,-0.5843 2.1807,-0.5843 -0.5843,2.1806 -0.5843,2.1806 -1.5964,-1.5963 z"
+       inkscape:transform-center-x="0.33678075"
+       inkscape:transform-center-y="0.33720892" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#91ff7e;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter5620)"
+       id="path5395-3"
+       sodipodi:sides="3"
+       sodipodi:cx="80.130959"
+       sodipodi:cy="132.95834"
+       sodipodi:r1="26.726952"
+       sodipodi:r2="13.363476"
+       sodipodi:arg1="-2.8797933"
+       sodipodi:arg2="-1.8325957"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 54.314706,126.0409 22.357531,-5.99068 22.35753,-5.99069 -5.990682,22.35754 -5.990681,22.35753 -16.36685,-16.36685 z"
+       inkscape:transform-center-x="0.33731295"
+       inkscape:transform-center-y="0.33739734"
+       transform="matrix(0.09753473,0,0,0.09753473,-5100.5274,2542.0681)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fdff7e;stroke-width:0.33547884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path5624"
+       sodipodi:sides="5"
+       sodipodi:cx="-5085.5601"
+       sodipodi:cy="2560.1238"
+       sodipodi:r1="3.6814153"
+       sodipodi:r2="1.8407078"
+       sodipodi:arg1="0.57133748"
+       sodipodi:arg2="1.199656"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -5082.4633,2562.1145 -2.4292,-0.2753 -1.6039,1.8449 -0.4888,-2.3953 -2.2503,-0.9554 2.1271,-1.205 0.2132,-2.4354 1.8033,1.6506 2.3821,-0.5498 -1.0125,2.2252 z"
+       inkscape:transform-center-x="0.28938989"
+       inkscape:transform-center-y="0.065142942" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fdff7e;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter5757)"
+       id="path5624-9"
+       sodipodi:sides="5"
+       sodipodi:cx="153.45833"
+       sodipodi:cy="185.11905"
+       sodipodi:r1="37.744663"
+       sodipodi:r2="18.872332"
+       sodipodi:arg1="0.57133748"
+       sodipodi:arg2="1.199656"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 185.20833,205.52976 -24.90542,-2.82331 -16.44503,18.9159 -5.01107,-24.55891 -23.07189,-9.79482 21.80841,-12.35493 2.18583,-24.96944 18.48939,16.92315 24.42281,-5.63714 -10.38133,22.81401 z"
+       inkscape:transform-center-x="0.28932405"
+       inkscape:transform-center-y="0.064839543"
+       transform="matrix(0.09753473,0,0,0.09753473,-5100.5274,2542.0681)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f77dea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect5761"
+       width="15.262444"
+       height="15.262444"
+       x="-5647.9668"
+       y="941.99762"
+       transform="rotate(-17.065268)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7df2f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.59728163;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect5763"
+       width="13.993457"
+       height="13.993457"
+       x="-5441.7568"
+       y="1770.6351"
+       transform="rotate(-8.5645189)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f2f77d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50876951;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect5763-6"
+       width="11.919744"
+       height="11.919744"
+       x="-4872.3975"
+       y="3003.1309"
+       transform="rotate(5.0106723)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7df781;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50876951;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect5763-6-6"
+       width="11.919744"
+       height="11.919744"
+       x="-5566.3457"
+       y="1325.0956"
+       transform="rotate(-13.311704)" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#f4644c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path5795-1"
+       cx="-5082.3892"
+       cy="2571.6257"
+       r="4.5344939" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#4cf4d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path5795-1-6"
+       cx="-5092.1592"
+       cy="2571.7729"
+       r="4.5344939" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#f4ad4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path5795"
+       cx="-5088.1045"
+       cy="2575.0542"
+       r="4.5344939" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#f4644c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.23078594;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path5795-1-2"
+       cx="-5085.4375"
+       cy="2541.5366"
+       r="2.0276191" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#661406;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.36619234;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter6197)"
+       id="path5795-1-2-7"
+       cx="-118.68452"
+       cy="47.535706"
+       r="20.788689"
+       transform="matrix(0.09753473,0,0,0.09753473,-5073.8624,2536.9005)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0f0ff2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6201"
+       width="7.6680875"
+       height="7.2256975"
+       x="-5117.5889"
+       y="2589.0251" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#a60ff2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6201-0"
+       width="7.6680875"
+       height="7.2256975"
+       x="-5106.6772"
+       y="2589.3936" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0fa0f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6201-8"
+       width="7.6680875"
+       height="7.2256975"
+       x="-5084.9995"
+       y="2589.2458" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0ff229;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6201-9"
+       width="7.6680875"
+       height="7.2256975"
+       x="-5096.0586"
+       y="2589.3936" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f2440f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6201-4"
+       width="7.6680875"
+       height="7.2256975"
+       x="-5106.2339"
+       y="2600.8955" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f28c0f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6201-6"
+       width="7.6680875"
+       height="7.2256975"
+       x="-5117.8833"
+       y="2600.3062" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e8f20f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6201-62"
+       width="7.6680875"
+       height="7.2256975"
+       x="-5095.0264"
+       y="2601.0427" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6b0ff2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6201-5"
+       width="7.6680875"
+       height="7.2256975"
+       x="-5117.7363"
+       y="2612.9873" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#c70ff2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51612127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6201-04"
+       width="7.6680875"
+       height="7.2256975"
+       x="-5106.8242"
+       y="2613.7251" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:url(#meshgradient6262);fill-opacity:1;fill-rule:nonzero;stroke:#f3ffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path6260"
+       cx="-5118.6533"
+       cy="2536.5586"
+       r="9.7325726" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:url(#meshgradient6278);fill-opacity:1;fill-rule:nonzero;stroke:#f3ffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect6276"
+       width="23.490335"
+       height="18.535345"
+       x="-5100.9575"
+       y="2632.0337" />
+    <rect
+       y="2629.9573"
+       x="-5134.1772"
+       height="18.535345"
+       width="23.490335"
+       id="rect6339"
+       style="opacity:1;vector-effect:none;fill:url(#meshgradient6341);fill-opacity:1;fill-rule:nonzero;stroke:#f3ffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#31e4ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3"
+       width="30.358875"
+       height="10.391294"
+       x="-5260.7817"
+       y="2662.604" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ece931;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1"
+       width="30.358875"
+       height="10.391294"
+       x="-5262.3511"
+       y="2664.1531" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec5231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361"
+       width="30.358875"
+       height="10.391294"
+       x="-5261.4512"
+       y="2663.4092" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5257.1079"
+       y="2670.5183"
+       id="text6357"><tspan
+         sodipodi:role="line"
+         id="tspan6355"
+         x="-5257.1079"
+         y="2670.5183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#31e4ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3-2"
+       width="30.358875"
+       height="10.391294"
+       x="-5301.2881"
+       y="2663.3577" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ece931;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-35"
+       width="30.358875"
+       height="10.391294"
+       x="-5300.3643"
+       y="2662.5227" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec5231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-5"
+       width="30.358875"
+       height="10.391294"
+       x="-5299.4653"
+       y="2661.7793" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5295.1216"
+       y="2668.8882"
+       id="text6357-6"><tspan
+         sodipodi:role="line"
+         id="tspan6355-7"
+         x="-5295.1216"
+         y="2668.8882"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ece931;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0"
+       width="30.358875"
+       height="10.391294"
+       x="-5299.02"
+       y="2628.3733" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec5231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11"
+       width="30.358875"
+       height="10.391294"
+       x="-5298.1211"
+       y="2627.6287" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5293.7759"
+       y="2634.7378"
+       id="text6357-2"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8"
+         x="-5293.7759"
+         y="2634.7378"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#31e4ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-6"
+       width="30.358875"
+       height="10.391294"
+       x="-5299.2256"
+       y="2645.6956" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec5231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-5"
+       width="30.358875"
+       height="10.391294"
+       x="-5298.3271"
+       y="2644.9509" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5293.9829"
+       y="2652.0601"
+       id="text6357-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-7"
+         x="-5293.9829"
+         y="2652.0601"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#71fefc;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5174.4629"
+       y="2534.3003"
+       id="text6503-8"><tspan
+         sodipodi:role="line"
+         id="tspan6501-9"
+         x="-5174.4629"
+         y="2534.3003"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#71fefc;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f471fe;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5174.0356"
+       y="2534.7268"
+       id="text6503-8-5"><tspan
+         sodipodi:role="line"
+         id="tspan6501-9-2"
+         x="-5174.0356"
+         y="2534.7268"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#f471fe;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5174.2402"
+       y="2534.5576"
+       id="text6503"><tspan
+         sodipodi:role="line"
+         id="tspan6501"
+         x="-5174.2402"
+         y="2534.5576"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#71fefc;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5175.2324"
+       y="2547.4526"
+       id="text6503-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan6501-9-23"
+         x="-5175.2324"
+         y="2547.4526"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#71fefc;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f471fe;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5174.6963"
+       y="2548.3457"
+       id="text6503-8-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan6501-9-2-8"
+         x="-5174.6963"
+         y="2548.3457"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#f471fe;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5174.8096"
+       y="2547.8748"
+       id="text6503-0"><tspan
+         sodipodi:role="line"
+         id="tspan6501-3"
+         x="-5174.8096"
+         y="2547.8748"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#71fefc;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5209.5801"
+       y="2534.2632"
+       id="text6503-8-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan6501-9-23-4"
+         x="-5209.5801"
+         y="2534.2632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#71fefc;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5209.0347"
+       y="2533.8384"
+       id="text6503-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan6501-3-4"
+         x="-5209.0347"
+         y="2533.8384"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f471fe;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5209.1802"
+       y="2545.0903"
+       id="text6503-8-4-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan6501-9-23-4-8"
+         x="-5209.1802"
+         y="2545.0903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#f471fe;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5208.6343"
+       y="2544.6653"
+       id="text6503-0-1-3"><tspan
+         sodipodi:role="line"
+         id="tspan6501-3-4-2"
+         x="-5208.6343"
+         y="2544.6653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ec5231;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5210.1011"
+       y="2556.3782"
+       id="text6503-8-4-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan6501-9-23-4-4"
+         x="-5210.1011"
+         y="2556.3782"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#ec5231;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5209.5562"
+       y="2555.9534"
+       id="text6503-0-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan6501-3-4-5"
+         x="-5209.5562"
+         y="2555.9534"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ece931;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5209.7012"
+       y="2567.2053"
+       id="text6503-8-4-8-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan6501-9-23-4-8-0"
+         x="-5209.7012"
+         y="2567.2053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#ece931;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5209.1553"
+       y="2566.7803"
+       id="text6503-0-1-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan6501-3-4-2-1"
+         x="-5209.1553"
+         y="2566.7803"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.6;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5174.6455"
+       y="2560.5242"
+       id="text6503-0-1-3-3-0-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan6501-3-4-2-1-7-9-3"
+         x="-5174.6455"
+         y="2560.5242"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#ffff00;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.6;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5174.9185"
+       y="2559.99"
+       id="text6503-0-1-3-3-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan6501-3-4-2-1-7-9"
+         x="-5174.9185"
+         y="2559.99"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#ff0000;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.6;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5173.52"
+       y="2560.0322"
+       id="text6503-0-1-3-3-0-1-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan6501-3-4-2-1-7-9-3-0"
+         x="-5173.52"
+         y="2560.0322"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#0000ff;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.51790309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04743448"
+       x="-5174.1401"
+       y="2560.3425"
+       id="text6503-0-1-3-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan6501-3-4-2-1-7"
+         x="-5174.1401"
+         y="2560.3425"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10741711px;font-family:fantasy;-inkscape-font-specification:fantasy;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.04743448">EVENT X</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#31e4ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3-2-4"
+       width="33.696369"
+       height="11.533657"
+       x="-5168.7764"
+       y="2579.5483" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ece931;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-35-8"
+       width="33.696369"
+       height="11.533657"
+       x="-5170.75"
+       y="2581.3655" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec5231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-5-6"
+       width="33.696369"
+       height="11.533657"
+       x="-5169.752"
+       y="2580.54" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.43616605px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.04488019"
+       x="-5166.1235"
+       y="2589.7124"
+       id="text6357-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan6355-7-1"
+         x="-5166.1235"
+         y="2589.7124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61699581px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.04488019">EVENT X</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#31e4ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3-2-4-2"
+       width="33.696369"
+       height="11.533657"
+       x="-5288.6035"
+       y="2353.3984"
+       transform="rotate(-2.7489562)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ece931;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-35-8-9"
+       width="33.696369"
+       height="11.533657"
+       x="-5518.6357"
+       y="1751.3175"
+       transform="rotate(-9.127888)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec5231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-5-6-2"
+       width="33.696369"
+       height="11.533657"
+       x="-4986.7188"
+       y="2936.9968"
+       transform="rotate(3.78422)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.29007685px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0403149"
+       x="-5164.8159"
+       y="2611.4277"
+       id="text6357-6-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan6355-7-1-7"
+         x="-5164.8159"
+         y="2611.4277"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.74045992px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.0403149">EVENT X</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3-2-4-0"
+       width="33.696369"
+       height="11.533657"
+       x="-5213.7183"
+       y="2580.2358" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-35-8-93"
+       width="33.696369"
+       height="11.533657"
+       x="-5215.6934"
+       y="2582.053" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-5-6-4"
+       width="33.696369"
+       height="11.533657"
+       x="-5214.6948"
+       y="2581.2271" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.43616605px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.04488019"
+       x="-5211.0669"
+       y="2590.3999"
+       id="text6357-6-7-13"><tspan
+         sodipodi:role="line"
+         id="tspan6355-7-1-5"
+         x="-5211.0669"
+         y="2590.3999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61699581px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.04488019">EVENT X</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3-2-4-2-8"
+       width="33.696369"
+       height="11.533657"
+       x="-5332.7915"
+       y="2351.9238"
+       transform="rotate(-2.7489561)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-35-8-9-9"
+       width="33.696369"
+       height="11.533657"
+       x="-5562.3862"
+       y="1744.943"
+       transform="rotate(-9.1278881)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-5-6-2-7"
+       width="33.696369"
+       height="11.533657"
+       x="-5030.7876"
+       y="2940.5598"
+       transform="rotate(3.78422)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.29007685px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0403149"
+       x="-5209.0234"
+       y="2612.0742"
+       id="text6357-6-7-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan6355-7-1-7-5"
+         x="-5209.0234"
+         y="2612.0742"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.74046135px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.0403149">EVENT X</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3-2-4-0-8"
+       width="33.696369"
+       height="11.533657"
+       x="-5212.6821"
+       y="2623.2625" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-35-8-93-2"
+       width="33.696369"
+       height="11.533657"
+       x="-5214.6567"
+       y="2625.0793" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-5-6-4-5"
+       width="33.696369"
+       height="11.533657"
+       x="-5213.6592"
+       y="2624.2537" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.43616605px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.04488019"
+       x="-5210.0303"
+       y="2633.4265"
+       id="text6357-6-7-13-7"><tspan
+         sodipodi:role="line"
+         id="tspan6355-7-1-5-4"
+         x="-5210.0303"
+         y="2633.4265"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61699581px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.04488019">EVENT X</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3-2-4-2-8-4"
+       width="33.696369"
+       height="11.533657"
+       x="-5334.5566"
+       y="2394.9563"
+       transform="rotate(-2.7489561)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-35-8-9-9-6"
+       width="33.696369"
+       height="11.533657"
+       x="-5568.9214"
+       y="1787.5127"
+       transform="rotate(-9.1278881)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5596931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-5-6-2-7-2"
+       width="33.696369"
+       height="11.533657"
+       x="-5027.645"
+       y="2983.5132"
+       transform="rotate(3.78422)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.29007685px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0403149"
+       x="-5208.7231"
+       y="2655.1418"
+       id="text6357-6-7-1-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan6355-7-1-7-5-6"
+         x="-5208.7231"
+         y="2655.1418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.74046135px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.0403149">EVENT X</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ece931;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9"
+       width="30.358875"
+       height="10.391294"
+       x="-5364.4282"
+       y="2406.9358"
+       transform="rotate(-2.3900705)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec5231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53"
+       width="30.358875"
+       height="10.391294"
+       x="-5071.2847"
+       y="2971.9883"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5254.6611"
+       y="2634.4236"
+       id="text6357-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1"
+         x="-5254.6611"
+         y="2634.4236"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#31e4ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-1"
+       width="30.358875"
+       height="10.391294"
+       x="-5366.9922"
+       y="2424.635"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec5231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-7"
+       width="30.358875"
+       height="10.391294"
+       x="-5071.9141"
+       y="2989.8613"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5256.4839"
+       y="2652.2146"
+       id="text6357-2-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-6"
+         x="-5256.4839"
+         y="2652.2146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <path
+       style="fill:#31e4ec;fill-opacity:1;stroke:#000000;stroke-width:0.02060113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5229.9472,2626.1231 c 0,0 1.1448,0.1513 1.8467,-1.1336 0.7018,-1.2843 0.6702,-1.9305 0.6702,-1.9305 l 3.3975,1.1585 c 0,0 0.3876,0.3173 -0.7213,1.7697 -1.109,1.4521 -2.9163,1.7175 -2.9163,1.7175 l 2.2079,1.8615 -6.306,0.5574 -0.2591,-5.8908 z"
+       id="path1235"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <path
+       style="fill:#ece931;fill-opacity:1;stroke:#000000;stroke-width:0.02060113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5230.8779,2645.0773 c 0,0 1.1449,0.1514 1.8467,-1.1336 0.702,-1.2844 0.6702,-1.9306 0.6702,-1.9306 l 3.3979,1.1585 c 0,0 0.3875,0.3174 -0.7217,1.7697 -1.109,1.4521 -2.9161,1.7173 -2.9161,1.7173 l 2.208,1.8617 -6.306,0.5574 -0.259,-5.8908 z"
+       id="path1235-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3-4"
+       width="30.358875"
+       height="10.391294"
+       x="-5384.9771"
+       y="2579.8486" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-1"
+       width="30.358875"
+       height="10.391294"
+       x="-5386.5469"
+       y="2581.3982" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-3"
+       width="30.358875"
+       height="10.391294"
+       x="-5385.6484"
+       y="2580.6548" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5381.3032"
+       y="2587.7639"
+       id="text6357-5"><tspan
+         sodipodi:role="line"
+         id="tspan6355-4"
+         x="-5381.3032"
+         y="2587.7639"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3-2-9"
+       width="30.358875"
+       height="10.391294"
+       x="-5387.0361"
+       y="2563.8591" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-35-2"
+       width="30.358875"
+       height="10.391294"
+       x="-5386.1133"
+       y="2563.0249" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-5-1"
+       width="30.358875"
+       height="10.391294"
+       x="-5385.2144"
+       y="2562.2808" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5380.8696"
+       y="2569.3899"
+       id="text6357-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan6355-7-0"
+         x="-5380.8696"
+         y="2569.3899"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-0"
+       width="30.358875"
+       height="10.391294"
+       x="-5384.7695"
+       y="2528.8752" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-532"
+       width="30.358875"
+       height="10.391294"
+       x="-5383.8696"
+       y="2528.1313" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5379.5254"
+       y="2535.2405"
+       id="text6357-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-73"
+         x="-5379.5254"
+         y="2535.2405"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-6-6"
+       width="30.358875"
+       height="10.391294"
+       x="-5384.9751"
+       y="2546.1973" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-5-7"
+       width="30.358875"
+       height="10.391294"
+       x="-5384.0752"
+       y="2545.4536" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5379.731"
+       y="2552.5627"
+       id="text6357-2-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-7-0"
+         x="-5379.731"
+         y="2552.5627"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-3"
+       width="30.358875"
+       height="10.391294"
+       x="-5445.9531"
+       y="2303.9487"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-4"
+       width="30.358875"
+       height="10.391294"
+       x="-5163.4932"
+       y="2878.4451"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5340.4092"
+       y="2534.926"
+       id="text6357-2-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-61"
+         x="-5340.4092"
+         y="2534.926"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-1-5"
+       width="30.358875"
+       height="10.391294"
+       x="-5448.5166"
+       y="2321.6479"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-7-8"
+       width="30.358875"
+       height="10.391294"
+       x="-5164.1221"
+       y="2896.3181"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5342.2329"
+       y="2552.7166"
+       id="text6357-2-4-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-6-6"
+         x="-5342.2329"
+         y="2552.7166"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <path
+       style="fill:#31e4ec;fill-opacity:1;stroke:#000000;stroke-width:0.02060113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5315.696,2526.6248 c 0,0 1.1448,0.1515 1.8466,-1.1331 0.702,-1.2843 0.6703,-1.9306 0.6703,-1.9306 l 3.3975,1.1581 c 0,0 0.3876,0.3179 -0.7214,1.77 -1.1087,1.4521 -2.9161,1.7172 -2.9161,1.7172 l 2.2081,1.8618 -6.3062,0.5573 -0.2589,-5.8909 z"
+       id="path1235-31"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <path
+       style="fill:#ece931;fill-opacity:1;stroke:#000000;stroke-width:0.02060113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5316.6266,2545.5791 c 0,0 1.1448,0.1513 1.8468,-1.1333 0.7017,-1.2845 0.6702,-1.9306 0.6702,-1.9306 l 3.3978,1.1582 c 0,0 0.3874,0.3178 -0.7216,1.7699 -1.109,1.4521 -2.9161,1.7173 -2.9161,1.7173 l 2.2078,1.8617 -6.3062,0.5574 -0.2589,-5.8908 z"
+       id="path1235-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-3-5"
+       width="30.358875"
+       height="10.391294"
+       x="-5449.0278"
+       y="2341.7131"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-4-3"
+       width="30.358875"
+       height="10.391294"
+       x="-5162.4556"
+       y="2916.3208"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5341.9067"
+       y="2572.7861"
+       id="text6357-2-4-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-61-5"
+         x="-5341.9067"
+         y="2572.7861"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#31e4ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-1-5-8"
+       width="30.358875"
+       height="10.391294"
+       x="-5451.5913"
+       y="2359.4126"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-7-8-2"
+       width="30.358875"
+       height="10.391294"
+       x="-5163.085"
+       y="2934.1938"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5343.729"
+       y="2590.5769"
+       id="text6357-2-4-9-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-6-6-7"
+         x="-5343.729"
+         y="2590.5769"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <path
+       style="fill:#3cec31;fill-opacity:1;stroke:#000000;stroke-width:0.02060113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5317.193,2564.4851 c 0,0 1.1447,0.1515 1.8466,-1.1335 0.7018,-1.2842 0.6704,-1.9306 0.6704,-1.9306 l 3.3975,1.1583 c 0,0 0.3874,0.3178 -0.7213,1.7699 -1.1091,1.4521 -2.9164,1.7173 -2.9164,1.7173 l 2.2081,1.8617 -6.3062,0.5575 -0.2589,-5.8908 z"
+       id="path1235-31-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <path
+       style="fill:#ece931;fill-opacity:1;stroke:#000000;stroke-width:0.02060113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5318.1236,2583.4392 c 0,0 1.1449,0.1515 1.8468,-1.1335 0.7016,-1.2842 0.6702,-1.9305 0.6702,-1.9305 l 3.3977,1.1582 c 0,0 0.3874,0.3178 -0.7215,1.77 -1.1092,1.4521 -2.9162,1.7172 -2.9162,1.7172 l 2.2078,1.8618 -6.3062,0.5574 -0.2589,-5.8906 z"
+       id="path1235-3-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#31e4ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-1-5-8-2"
+       width="30.358875"
+       height="10.391294"
+       x="-5452.123"
+       y="2378.3147"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-7-8-2-1"
+       width="30.358875"
+       height="10.391294"
+       x="-5161.5654"
+       y="2953.042"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5343.4722"
+       y="2609.4846"
+       id="text6357-2-4-9-6-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-6-6-7-9"
+         x="-5343.4722"
+         y="2609.4846"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <path
+       style="fill:#ec3172;fill-opacity:1;stroke:#000000;stroke-width:0.02060113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5317.8664,2602.3471 c 0,0 1.1451,0.1513 1.8468,-1.1332 0.7019,-1.2843 0.6703,-1.9307 0.6703,-1.9307 l 3.3978,1.1582 c 0,0 0.3874,0.3178 -0.7216,1.7697 -1.109,1.4523 -2.9162,1.7175 -2.9162,1.7175 l 2.208,1.8617 -6.3061,0.5572 -0.259,-5.8905 z"
+       id="path1235-3-0-9-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3-4-5"
+       width="30.358875"
+       height="10.391294"
+       x="-5293.0801"
+       y="2579.3142" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-1-9"
+       width="30.358875"
+       height="10.391294"
+       x="-5294.6504"
+       y="2580.8638" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-3-7"
+       width="30.358875"
+       height="10.391294"
+       x="-5293.7505"
+       y="2580.1199" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5289.4062"
+       y="2587.229"
+       id="text6357-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan6355-4-0"
+         x="-5289.4062"
+         y="2587.229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3-2-9-8"
+       width="30.358875"
+       height="10.391294"
+       x="-5295.1382"
+       y="2563.3247" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-35-2-8"
+       width="30.358875"
+       height="10.391294"
+       x="-5294.2163"
+       y="2562.4902" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-5-1-6"
+       width="30.358875"
+       height="10.391294"
+       x="-5293.3164"
+       y="2561.7463" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5288.9722"
+       y="2568.8555"
+       id="text6357-6-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan6355-7-0-7"
+         x="-5288.9722"
+         y="2568.8555"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-0-1"
+       width="30.358875"
+       height="10.391294"
+       x="-5292.8711"
+       y="2528.3403" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-532-7"
+       width="30.358875"
+       height="10.391294"
+       x="-5291.9727"
+       y="2527.5969" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5287.6279"
+       y="2534.7061"
+       id="text6357-2-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-73-4"
+         x="-5287.6279"
+         y="2534.7061"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-6-6-3"
+       width="30.358875"
+       height="10.391294"
+       x="-5293.0771"
+       y="2545.6631" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-5-7-2"
+       width="30.358875"
+       height="10.391294"
+       x="-5292.1772"
+       y="2544.9192" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5287.8335"
+       y="2552.0283"
+       id="text6357-2-5-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-7-0-5"
+         x="-5287.8335"
+         y="2552.0283"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-3-53"
+       width="30.358875"
+       height="10.391294"
+       x="-5354.1133"
+       y="2307.248"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-4-6"
+       width="30.358875"
+       height="10.391294"
+       x="-5071.833"
+       y="2871.7688"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5248.5112"
+       y="2534.3911"
+       id="text6357-2-4-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-61-0"
+         x="-5248.5112"
+         y="2534.3911"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-1-5-0"
+       width="30.358875"
+       height="10.391294"
+       x="-5356.6768"
+       y="2324.9475"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-7-8-3"
+       width="30.358875"
+       height="10.391294"
+       x="-5072.4639"
+       y="2889.6414"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5250.335"
+       y="2552.1821"
+       id="text6357-2-4-9-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-6-6-4"
+         x="-5250.335"
+         y="2552.1821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <path
+       style="fill:#31e4ec;fill-opacity:1;stroke:#000000;stroke-width:0.02060113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5223.7977,2526.0903 c 0,0 1.1451,0.1515 1.8466,-1.1333 0.702,-1.2844 0.6705,-1.9307 0.6705,-1.9307 l 3.3977,1.1584 c 0,0 0.3874,0.3177 -0.7218,1.7697 -1.1088,1.4522 -2.916,1.7175 -2.916,1.7175 l 2.2079,1.8616 -6.306,0.5573 -0.259,-5.8905 z"
+       id="path1235-31-25"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <path
+       style="fill:#ece931;fill-opacity:1;stroke:#000000;stroke-width:0.02060113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5224.7281,2545.0444 c 0,0 1.1448,0.1515 1.8468,-1.1333 0.7018,-1.2844 0.6702,-1.9305 0.6702,-1.9305 l 3.3975,1.1582 c 0,0 0.3874,0.3177 -0.7214,1.7697 -1.109,1.4524 -2.9163,1.7175 -2.9163,1.7175 l 2.2081,1.8618 -6.3063,0.5572 -0.2588,-5.8906 z"
+       id="path1235-3-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-3-5-8"
+       width="30.358875"
+       height="10.391294"
+       x="-5357.1885"
+       y="2345.0129"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-4-3-7"
+       width="30.358875"
+       height="10.391294"
+       x="-5070.7959"
+       y="2909.644"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5250.0088"
+       y="2572.251"
+       id="text6357-2-4-4-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-61-5-8"
+         x="-5250.0088"
+         y="2572.251"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-1-5-8-4"
+       width="30.358875"
+       height="10.391294"
+       x="-5359.7515"
+       y="2362.7122"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-7-8-2-4"
+       width="30.358875"
+       height="10.391294"
+       x="-5071.4263"
+       y="2927.5166"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5251.832"
+       y="2590.042"
+       id="text6357-2-4-9-6-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-6-6-7-4"
+         x="-5251.832"
+         y="2590.042"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <path
+       style="fill:#3cec31;fill-opacity:1;stroke:#000000;stroke-width:0.02060113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5225.2948,2563.9504 c 0,0 1.1451,0.1514 1.8468,-1.1333 0.7019,-1.2844 0.6703,-1.9305 0.6703,-1.9305 l 3.3977,1.1583 c 0,0 0.3875,0.3175 -0.7216,1.7698 -1.1091,1.4521 -2.9163,1.7175 -2.9163,1.7175 l 2.208,1.8614 -6.3059,0.5575 -0.2591,-5.8908 z"
+       id="path1235-31-2-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <path
+       style="fill:#ece931;fill-opacity:1;stroke:#000000;stroke-width:0.02060113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5226.2252,2582.9046 c 0,0 1.1448,0.1514 1.8468,-1.1334 0.7018,-1.2842 0.6701,-1.9306 0.6701,-1.9306 l 3.3976,1.1584 c 0,0 0.3876,0.3175 -0.7214,1.7698 -1.1088,1.4521 -2.916,1.7175 -2.916,1.7175 l 2.2079,1.8614 -6.3063,0.5576 -0.2588,-5.8909 z"
+       id="path1235-3-0-9-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-1-5-8-2-0"
+       width="30.358875"
+       height="10.391294"
+       x="-5360.2832"
+       y="2381.6145"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50425762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-7-8-2-1-6"
+       width="30.358875"
+       height="10.391294"
+       x="-5069.9048"
+       y="2946.3655"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.80681217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02521286"
+       x="-5251.5747"
+       y="2608.9502"
+       id="text6357-2-4-9-6-4-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-6-6-7-9-1"
+         x="-5251.5747"
+         y="2608.9502"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84087276px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.02521286">BUY TICKET</tspan></text>
+    <path
+       style="fill:#31e4ec;fill-opacity:1;stroke:#000000;stroke-width:0.02060113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5225.9678,2601.8126 c 0,0 1.1448,0.1514 1.8468,-1.1335 0.7018,-1.2843 0.6702,-1.9305 0.6702,-1.9305 l 3.3975,1.1582 c 0,0 0.3875,0.3176 -0.7213,1.7697 -1.109,1.4524 -2.9162,1.7175 -2.9162,1.7175 l 2.2078,1.8618 -6.3062,0.5573 -0.259,-5.8907 z"
+       id="path1235-3-0-9-4-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02077818;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-1-5-8-2-0-5"
+       width="61.456039"
+       height="21.03529"
+       x="-5453.6274"
+       y="2580.3279"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02077818;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-7-8-2-1-6-3"
+       width="61.456043"
+       height="21.03529"
+       x="-5140.5283"
+       y="3151.6831"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.63324499px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05103887"
+       x="-5331.7085"
+       y="2817.3962"
+       id="text6357-2-4-9-6-4-9-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-6-6-7-9-1-3"
+         x="-5331.7085"
+         y="2817.3962"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79946995px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.05103887">BUY TICKET</tspan></text>
+    <path
+       style="fill:#31e4ec;fill-opacity:1;stroke:#000000;stroke-width:0.04170325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5279.8726,2802.9476 c 0,0 2.3174,0.3065 3.7385,-2.2946 1.4207,-2.5998 1.3567,-3.9079 1.3567,-3.9079 l 6.8776,2.3446 c 0,0 0.7844,0.6429 -1.4601,3.5824 -2.245,2.9401 -5.9034,3.4768 -5.9034,3.4768 l 4.4693,3.7688 -12.7657,1.1282 -0.5243,-11.9247 z"
+       id="path1235-3-0-9-4-5-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.44030142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-3-2-4-2-8-3"
+       width="86.713463"
+       height="29.680449"
+       x="-5363.3389"
+       y="2537.5745"
+       transform="rotate(-2.7489561)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.44030142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-35-8-9-9-3"
+       width="86.713463"
+       height="29.680449"
+       x="-5615.4229"
+       y="1926.1633"
+       transform="rotate(-9.1278881)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.44030142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-5-6-2-7-6"
+       width="86.713463"
+       height="29.680449"
+       x="-5040.3677"
+       y="3123.9995"
+       transform="rotate(3.78422)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.31985426px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.10374545"
+       x="-5223.0273"
+       y="2810.1406"
+       id="text6357-6-7-1-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan6355-7-1-7-5-1"
+         x="-5223.0273"
+         y="2810.1406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.91912651px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.10374545">EVENT X</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1068747;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-1-0-9-1-5-8-4-1"
+       width="66.639488"
+       height="22.80949"
+       x="-5452.0522"
+       y="2532.6909"
+       transform="rotate(-2.3900706)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1068747;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6361-11-53-7-8-2-4-0"
+       width="66.639496"
+       height="22.80949"
+       x="-5144.0229"
+       y="3103.7654"
+       transform="rotate(3.8332231)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.77099943px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05534369"
+       x="-5331.3174"
+       y="2770.7371"
+       id="text6357-2-4-9-6-4-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan6355-8-1-6-6-7-4-4"
+         x="-5331.3174"
+         y="2770.7371"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.62599659px;font-family:fantasy;-inkscape-font-specification:fantasy;fill:#ffffff;fill-opacity:1;stroke-width:0.05534369">BUY TICKET</tspan></text>
+    <path
+       style="fill:#ece931;fill-opacity:1;stroke:#000000;stroke-width:0.04522067px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -5275.1079,2755.0699 c 0,0 2.5129,0.3324 4.0539,-2.4879 1.5405,-2.8189 1.4709,-4.2377 1.4709,-4.2377 l 7.4579,2.5427 c 0,0 0.8508,0.6969 -1.5835,3.8848 -2.4339,3.1875 -6.4008,3.77 -6.4008,3.77 l 4.8465,4.0859 -13.8427,1.224 -0.5681,-12.9309 z"
+       id="path1235-3-0-9-6-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7731ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1935"
+       width="30.592285"
+       height="25.21818"
+       x="-5137.9067"
+       y="2738.1375" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ec3172;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1935-3"
+       width="30.592287"
+       height="25.21818"
+       x="-5137.9062"
+       y="2774.7244" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3cec31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1935-8"
+       width="30.592287"
+       height="25.21818"
+       x="-5137.9067"
+       y="2812.7581" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ece931;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.33706188;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1935-88"
+       width="22.324059"
+       height="18.603596"
+       x="-5095.3252"
+       y="2738.344" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#31e4ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.33706188;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1935-88-9"
+       width="22.324059"
+       height="18.603596"
+       x="-5094.9116"
+       y="2765.6292" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.33706188;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1935-88-9-1"
+       width="22.324059"
+       height="18.603596"
+       x="-5094.9116"
+       y="2793.3276" />
+  </g>
+</svg>
