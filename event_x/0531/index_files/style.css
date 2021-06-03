@@ -1033,8 +1033,17 @@ p {
 	line-height: 1;
 }
 .countdown-box_li .num {
-	font-size: 4em;
 	line-height: 1.5;
+}
+.countdown-box-li .days {
+	font-size:: 5em;
+}
+.countdown-box_li .hours {
+	font-size: 4.5em;
+}
+.countdown-box_li .minutes,
+.countdown-box_li .seconds {
+	font-size: 4em;
 }
 
 
