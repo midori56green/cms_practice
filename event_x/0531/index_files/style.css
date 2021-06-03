@@ -1036,7 +1036,7 @@ p {
 	line-height: 1.5;
 }
 .countdown-box_li .days {
-	font-size:: 6em;
+	font-size: 6em;
 }
 .countdown-box_li .hours {
 	font-size: 5em;
@@ -1108,7 +1108,8 @@ p {
 }
 .footer-section > p {
 	line-height: 2;
-	font-size: 1.1rem;
+	margin: 1em 0;
+	font-size: 1.3rem;
 	text-align: center;
 }
 .footer-title {
