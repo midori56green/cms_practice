@@ -1001,10 +1001,10 @@ p {
 	grid-area: days;
 }
 .countdown-box_li.days::before {
-	top: calc(-50% - 2em);
+	top: -50%;
 	right: -2em;
 	width: 1px;
-	height: calc(200% + 4em);
+	height: 200%;
 }
 .countdown-box_li.hours {
 	grid-area: hours;
