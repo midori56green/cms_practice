@@ -1035,7 +1035,7 @@ p {
 .countdown-box_li .num {
 	line-height: 1.5;
 }
-.countdown-box-li .days {
+.countdown-box_li .days {
 	font-size:: 5em;
 }
 .countdown-box_li .hours {
