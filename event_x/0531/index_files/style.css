@@ -966,7 +966,7 @@ p {
 	z-index: -1;
 }
 .countdown-box_wrapper::before {
-	background: url(countdown_back.png) no-repeat top right / cover;
+	background: url(./countdown_back.png) no-repeat top right / cover;
 }
 .countdown-box_wrapper::after {
 	background: rgba(0,0,0,0.5);
