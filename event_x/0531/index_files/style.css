@@ -43,6 +43,7 @@ body {
 		url(material/back_l.svg),
 		url(material/back_r.svg)
 	;
+	background: red;
 }
 a {
 	color: #ece931;
