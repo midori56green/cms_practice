@@ -1036,14 +1036,18 @@ p {
 	line-height: 1.5;
 }
 .countdown-box_li .days {
-	font-size:: 5em;
+	font-size:: 6em;
 }
 .countdown-box_li .hours {
-	font-size: 4.5em;
+	font-size: 5em;
 }
 .countdown-box_li .minutes,
 .countdown-box_li .seconds {
 	font-size: 4em;
+}
+
+body {
+	background: red;
 }
 
 
