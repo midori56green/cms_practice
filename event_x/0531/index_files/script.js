@@ -15,7 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
 	// 		behavior: 'smooth'
 	// 	});
 	// });
-	console.log(false);
 
 
 	//fade floating btn
