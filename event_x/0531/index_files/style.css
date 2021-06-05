@@ -40,8 +40,8 @@ body {
 		top right
 	;
 	background-image: 
-		url(material/back_l.svg),
-		url(material/back_r.svg)
+		url(index_files/back_l.svg),
+		url(index_files/back_r.svg)
 	;
 }
 a {
